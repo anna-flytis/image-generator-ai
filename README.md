@@ -1,9 +1,10 @@
 
 <h1 align="center"><bold>imagenius</bold></h1>
-  <p align="center"> "Imagenius" is an impressive web application developed as the final project for a web development bootcamp.
+  <p align="center"> "Imagenius" is an impressive web application developed as the final project for a web development bootcamp. It was created by three students @anna-flytis, @rukiyeozmen, @jeevesj. 
+
 
 ## About The Project
-<p>Imagenuis is an exceptional web application that combines the power of artificial intelligence to generate captivating images and creative hashtags. Designed as the culmination of a web development bootcamp, this innovative platform delivers an unparalleled user experience by harnessing the capabilities of AI. Users can access a vast collection of AI-generated images, ensuring a never-ending source of visual inspiration. Additionally, Imagenuis provides a unique feature of AI-generated hashtags, allowing users to effortlessly enhance their social media presence with engaging and relevant content. With its seamless functionality and cutting-edge technology, Imagenuis truly stands out as a remarkable achievement in the realm of web development.</p>
+<p>Imagenuis is an exceptional web application that combines the power of artificial intelligence to generate captivating images and creative hashtags. Designed as the culmination of a web development bootcamp, this innovative platform delivers an unparalleled user experience by harnessing the capabilities of AI. Users can access a vast collection of AI-generated images, ensuring a never-ending source of visual inspiration. Additionally, Imagenuis provides a unique feature of AI-generated hashtags, allowing users to effortlessly enhance their social media presence with engaging and relevant content. With its seamless functionality and cutting-edge technology, Imagenuis truly stands out as a remarkable achievement in web development.</p>
 
 ### Main page 
 ![Main Page](img-md/main.png)

@@ -3,7 +3,7 @@
   <p align="center"> "Imagenius" is an impressive web application developed as the final project for a web development bootcamp. 
     It was created by three students:
     Anna Mariakhina (https://github.com/anna-flytis)
-    Rukiye Ozmen (https://github.com/rukiyeozmen
+    Rukiye Ozmen (https://github.com/rukiyeozmen)
     Christian Gravel (https://github.com/jeevesj)
 
 

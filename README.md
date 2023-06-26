@@ -1,6 +1,6 @@
 
 <h1 align="center"><bold>imagenius</bold></h1>
-  <p align="center"> "Imagenius" is an impressive web application developed as the final project for a web development bootcamp. It was created by three students @anna-flytis, @rukiyeozmen, @jeevesj. 
+  <p align="center"> "Imagenius" is an impressive web application developed as the final project for a web development bootcamp. It was created by three students ![@anna-flytis](https://github.com/anna-flytis), ![@rukiyeozmen](https://github.com/rukiyeozmen), ![@jeevesj](https://github.com/jeevesj). 
 
 
 ## About The Project
